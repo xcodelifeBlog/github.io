@@ -7,7 +7,6 @@ header-img: "img/post-bg-halting.jpg"
 header-mask: 0.3
 tags:
   - 知乎
-  - 计算机科学
   - 计算理论
 ---
 
@@ -124,3 +123,5 @@ is_halt(hack, hack)
 - [Turing & The Halting Problem - Computerphile](https://link.zhihu.com/?target=https%3A//www.youtube.com/watch%3Fv%3DmacM_MtS_w4%26t%3D29s)
 
 - [Why, really, is the Halting Problem so important?](https://link.zhihu.com/?target=https%3A//cs.stackexchange.com/questions/32845/why-really-is-the-halting-problem-so-important)
+
+

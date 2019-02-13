@@ -8,7 +8,6 @@ header-mask: 0.3
 mathjax: true
 tags:
   - 知乎
-  - 计算机科学
   - 计算理论
 ---
 
@@ -69,3 +68,5 @@ $\Sigma = \\{0, 1\\}$，所以「编码」即一个对象的二进制字符串�
 4.  可以用反证法得证
 5.  知乎能用 LaTex 了好评
 6. [Aleph Number - Wikipedia](https://en.wikipedia.org/wiki/Aleph_number)
+
+
