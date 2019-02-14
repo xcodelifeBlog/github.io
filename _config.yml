@@ -1,8 +1,8 @@
 # Site settings
-title: xcodelife Blog
-SEOTitle: 刘文帅的博客 | xcodelife Blog
+title: Xcodelife Blog
+SEOTitle: 刘文帅的博客 | Xcodelife Blog
 header-img: img/home-bg.jpg
-email: xcodelife@163.com
+email: Xcodelife@163.com
 description: "开发与产品、数据与运营 | @刘文帅，Software Engineer，UX Designer | 这里是 @刘文帅 的个人博客"
 keyword: "个人网站"
 url: "https://xcodelife.com"              # your host, for absolute URL
@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: xcodelife
+# disqus_username: xcodelife
 
 # Netease settings
 netease_comment: false
