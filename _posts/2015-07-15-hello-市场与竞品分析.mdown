@@ -7,8 +7,8 @@ author:     "Xcodelife"
 header-img: "img/post-bg-alitrip.jpg"
 catalog: true
 tags:
-    - 同事关系
-    - 岗位思考
+    - 产品经理
+    - 试产与竞品
 ---
 
 
