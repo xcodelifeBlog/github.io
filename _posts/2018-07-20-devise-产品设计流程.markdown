@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "产品设计流程"
-subtitle:   "聊聊产品经理与开发的合作之道"
+subtitle:   "精益流程"
 date:       2018-07-20
 author:     "Xcodelife"
 header-img: "img/post-bg-alitrip.jpg"

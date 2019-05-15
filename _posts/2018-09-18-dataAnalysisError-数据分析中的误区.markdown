@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "一个程序员想对产品经理说的话"
-subtitle:   "聊聊产品经理与开发的合作之道"
-date:       2015-06-15
+title:      "数据分析中的误区"
+subtitle:   "数据驱动设计（三）"
+date:       2018-09-18
 author:     "Xcodelife"
 header-img: "img/post-bg-alitrip.jpg"
 catalog: true

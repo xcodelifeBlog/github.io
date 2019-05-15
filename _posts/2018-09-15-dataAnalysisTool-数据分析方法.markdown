@@ -2,7 +2,7 @@
 layout:     post
 title:      "认识与获取数据"
 subtitle:   "数据驱动设计（二）"
-date:       2015-06-15
+date:       2018-09-15
 author:     "Xcodelife"
 header-img: "img/post-bg-alitrip.jpg"
 catalog: true
