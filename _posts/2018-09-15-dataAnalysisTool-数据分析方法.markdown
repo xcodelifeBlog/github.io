@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "认识与获取数据"
+title:      "数据分析方法"
 subtitle:   "数据驱动设计（二）"
 date:       2018-09-15
 author:     "Xcodelife"

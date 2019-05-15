@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "一个程序员想对产品经理说的话"
-subtitle:   "聊聊产品经理与开发的合作之道"
-date:       2015-11-15
+title:      "了解用户"
+subtitle:   "用户调研"
+date:       2018-02-10
 author:     "Xcodelife"
 header-img: "img/post-bg-kuaidi.jpg"
 catalog: true
