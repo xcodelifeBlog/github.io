@@ -2,7 +2,7 @@
 layout:     post
 title:      "页面设计基本原则"
 subtitle:   "《写给大家看的设计书》阅读笔记"
-date:       2018-09-18
+date:       2018-12-01
 author:     "Xcodelife"
 header-img: "img/post-bg-alitrip.jpg"
 catalog: true
