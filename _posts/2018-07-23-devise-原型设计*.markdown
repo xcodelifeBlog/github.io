@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "页面设计基本原则"
-subtitle:   "《写给大家看的设计书》阅读笔记"
-date:       2018-09-18
+title:      "原型设计"
+subtitle:   "原型制作流程"
+date:       2018-07-23
 author:     "Xcodelife"
 header-img: "img/post-bg-alitrip.jpg"
 catalog: true
