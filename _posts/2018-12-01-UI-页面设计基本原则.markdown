@@ -8,7 +8,7 @@ header-img: "img/post-bg-alitrip.jpg"
 catalog: true
 tags:
     - 产品经理
-    - 数据分析
+    - 产品设计
 ---
 > 界面设计是具有专业性的工作，产品经理不用学习太多，但是如果有些建树有会收益颇多。
 
