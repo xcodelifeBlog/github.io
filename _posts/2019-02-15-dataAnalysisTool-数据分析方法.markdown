@@ -2,7 +2,7 @@
 layout:     post
 title:      "数据分析方法"
 subtitle:   "数据驱动设计（二）"
-date:       2018-09-15
+date:       2019-02-15
 author:     "Xcodelife"
 header-img: "img/post-bg-alitrip.jpg"
 catalog: true
