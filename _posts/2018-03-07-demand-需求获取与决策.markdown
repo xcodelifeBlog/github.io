@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "提需求分析不是你想的那么简单！"
+title:      "提需求不是你想的那么简单！"
 subtitle:   "需求获取与决策"
 date:       2018-03-07
 author:     "Xcodelife"
